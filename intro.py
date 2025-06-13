@@ -1,0 +1,3 @@
+name = input('Enter your first name:  ')
+name2= input('Enter your last name: ')
+print('hello ' + name +' ' + name2+'!' + ' welcome to the python proram.')
